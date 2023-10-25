@@ -23,11 +23,11 @@ section .form_data{
 
 .form_data h1{
     font-size: 34px;
-    color: #2a4365;
+    color: #10233e;
 }
 
 .form_data p{
-    color: #718096;
+    color: #214273;
     font-size: 15px;
     margin-top:9px;
 }
